@@ -1,7 +1,3 @@
-Sure! Here's a sample README file for your TextTweak web application:
-
----
-
 # TextTweak
 
 TextTweak is a web application designed to manipulate text entered by users. Built with JavaScript and ReactJS, this app provides a variety of text manipulation features, making it a handy tool for users who need to tweak their text content.
